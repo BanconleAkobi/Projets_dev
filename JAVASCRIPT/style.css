@@ -1,0 +1,34 @@
+.error{
+    border: 1px solid #e9c7c6;
+    color: #f81a1a; 
+    background-color: #fae6e6; 
+
+    padding: 18px 32px; 
+    display: inline-block; 
+    font-size: 22px; 
+}
+.succes{
+    border: 1px solid #d6e9c6;
+    color: #3c763d; 
+    background-color: #dff0d8; 
+    padding: 18px 32px; 
+    display: inline-block; 
+    font-size: 22px; 
+}
+.succes{
+    border: 1px solid #d6e9c6;
+    color: #3c763d; 
+    background-color: #dff0d8; 
+    padding: 18px 32px; 
+    display: inline-block; 
+    font-size: 22px; 
+}
+
+.attention{
+    border: 1px solid #e9e1c6;
+    color: #3c769d; 
+    background-color: #efd0d9; 
+    padding: 18px 32px; 
+    display: inline-block; 
+    font-size: 22px; 
+}
